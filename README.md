@@ -1,4 +1,4 @@
 
-hyperledger-besu :  both private and public blockchain
+Gossip protocol
 
-hyperledger-fabric: entterprise level private blockchain
+raft protocol
