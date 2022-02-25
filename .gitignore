@@ -1,0 +1,17 @@
+# compiled output
+dist/
+node_modules/
+pgdata/
+
+# Logs
+logs
+
+# IDE - VSCode
+.vscode/
+.env
+
+.DS_Store
+
+# ignoring postgress and pgadmin docker volume
+pgadminData/
+postgresData/
